@@ -5,7 +5,7 @@ This is a carousel view (scrollable images) implemented totally in SwiftUI, whic
 完全SwiftUI实现的轮播图，支持点击、放缩、滑动等手势，类似淘宝的商品图片。
 
 Now, there are two limitations:
-- When changing between the first and the last image, the animation is not beautiful as other cases.
+- When not tapped and changing between the first and the last image, the animation is not beautiful as other cases.
 - When tapped and changing between images, the animation is not natural.
 
 现在还有两个地方需要优化：
