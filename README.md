@@ -9,11 +9,11 @@ Now, there are two limitations:
 - When tapped and changing between images, the animation is not natural.
 
 现在还有两个地方需要优化：
-- 因为实现方法的原因，普通情况下，首尾切换的动画不美观
+- 因为实现方法的原因，普通情况下，首尾切换的动画不美观。
 - 点击查看详情以后，图片之间切换的动画不够自然、顺畅。
 
 # How to use
-Please read the file ContentView.swift, quite easy
+Please read the file ContentView.swift, quite easy.
 
 # 使用
 请阅读ContentView.swift，非常简单。
