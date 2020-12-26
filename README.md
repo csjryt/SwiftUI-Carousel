@@ -1,6 +1,6 @@
 # SwiftUI-Carousel
 
-This is a carousel view (scrollable images) implemented totally in SwiftUI, which enable some gestures includind draging, scaling, and tapping.
+This is a carousel view (scrollable images) implemented totally in SwiftUI, which enable some gestures including draging, scaling, and tapping.
 
 完全SwiftUI实现的轮播图，支持点击、放缩、滑动等手势，类似淘宝的商品图片。
 
